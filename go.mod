@@ -1,4 +1,4 @@
-module github.com/birdproject
+module github.com/Nayanam13/GO-CRUD-Movie-APIs
 
 go 1.17
 
